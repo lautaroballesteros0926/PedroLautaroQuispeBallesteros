@@ -1,0 +1,1 @@
+/home/clara/IdeaProjects/Tarea1-CC3S2/build/classes/java/main/io/collective/SimpleAgedCache$ExpirableEntry.class:/home/clara/IdeaProjects/Tarea1-CC3S2/build/classes/java/main/io/collective/SimpleAgedCache.class:/home/clara/IdeaProjects/Tarea1-CC3S2/build/classes/kotlin/main/io/collective/SimpleAgedKache.class
